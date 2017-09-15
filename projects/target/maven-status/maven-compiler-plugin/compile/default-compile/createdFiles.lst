@@ -1,0 +1,8 @@
+projects\springmvc\config\WebInitializer.class
+projects\springmvc\services\UserService.class
+projects\springmvc\services\UserServiceImpl.class
+projects\springmvc\config\WebConfig.class
+projects\springmvc\dao\UserDao.class
+projects\springmvc\dao\UserDaoImpl.class
+projects\springmvc\model\User.class
+projects\springmvc\controller\UserController.class
